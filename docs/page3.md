@@ -51,10 +51,8 @@
 
   * 展示物の様子がわかるツイート：
 
-    *  https://twitter.com/oit_vlken/status/1198425137659273216?s=20 
+    *  [1](https://twitter.com/oit_vlken/status/1198425137659273216?s=20 )
 
-    * https://twitter.com/hahakuru39/status/1198401690564562944?s=20 
+    * [2](https://twitter.com/hahakuru39/status/1198401690564562944?s=20 )
 
-  * 来場者が描いてくださったイラスト（piaproのスケブ）：
-
-    *  https://twitter.com/miku_UT/status/1198632585175293953?s=20
+  * [来場者が描いてくださったイラスト](https://twitter.com/miku_UT/status/1198632585175293953?s=20)（piaproのスケブ）
