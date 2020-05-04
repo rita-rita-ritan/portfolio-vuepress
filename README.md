@@ -1,4 +1,4 @@
 # PORTFOLIO
 
-りたんの自己紹介用の[ウェブサイト](ritan.netlify.app/)です。
+りたんの自己紹介用の[ウェブサイト](https://ritan.netlify.app/)です。
 
