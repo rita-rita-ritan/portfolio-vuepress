@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'PORTFOLIO',
+    title: 'Rita Shioya',
     themeConfig: {
         sidebar: [
             '/',
