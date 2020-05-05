@@ -98,7 +98,7 @@
 
 ## Study Record
 
-一部抜粋。詳細は別ページ。
+[Study Record](/study_record.html)より一部抜粋
 
 * YouTubeの字幕をダウンロードするWebアプリ（プロト）
 
