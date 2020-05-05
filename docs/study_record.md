@@ -77,7 +77,7 @@
   
   * アルゴリズム（現在受講中。ただし履修はしていない）
   * 統計的機械学習（現在受講中）
-* 長期インターンで使用（cf. Internship / Part-time Job）
+* 長期インターンで使用（cf. [Internship / Part-time Job](overview.html#internship-part-time-job)）
 * 競技プログラミングで使用
 
   * AtCoderで[highest 緑](https://atcoder.jp/users/rita_n)
@@ -112,10 +112,10 @@
 ## C#
 
 * 書籍：『[Unityの教科書](https://www.amazon.co.jp/dp/B075SRPX3R/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)』（前半の方のみ）
-* ゲーム・プロダクト制作（cf. Project > Overview）
+* ゲーム・プロダクト制作（cf. [Project](overview.html#project)）
 * VR:
   * 半年ほど[東大のVRサークル](http://utvirtual.tech/)に入っていました。
-  * [ハコスコ](https://hacosco.com/vr-goggle/)、[Oculus Go](https://www.oculus.com/go/?locale=ja_JP)、[PlayStation VR](https://www.playstation.com/ja-jp/explore/playstation-vr/)、[だんグラ](https://dangla.jp/)を所持しており、Oculus Goとだんグラについては簡単な開発をしたことがあります（cf. Project）
+  * [ハコスコ](https://hacosco.com/vr-goggle/)、[Oculus Go](https://www.oculus.com/go/?locale=ja_JP)、[PlayStation VR](https://www.playstation.com/ja-jp/explore/playstation-vr/)、[だんグラ](https://dangla.jp/)を所持しており、Oculus Goとだんグラについては簡単な開発をしたことがあります（cf. [Project](overview.html#project)）
   * [バーチャル美少女受肉](https://twitter.com/rita_rita_ritan/status/1144632857580564481?s=20)
 
 <br></br>
@@ -134,7 +134,7 @@
 
 ## Arduino / Raspberry Pi
 
-* 東京藝術大学の学生に技術協力（cf. Project > Overview）
+* 東京藝術大学の学生に技術協力（cf. [Project](overview.html#project)）
 
   > Arduino
 
