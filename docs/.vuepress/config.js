@@ -3,8 +3,8 @@ module.exports = {
     themeConfig: {
         sidebar: [
             '/',
-            '/page1',
-            '/page2',
+            '/overview',
+            '/study_record',
         ]
     }
 }
