@@ -1,9 +1,5 @@
 # Overview
 
-
-
-<br></br><br></br>
-
 ## Internship / Part-time Job
 
 * ### クローラ作成＆教師データ集め（3ヶ月程度）
@@ -13,8 +9,6 @@
   * [インターン先企業サイト](https://liaro.ai/)
 
   <br></br>
-  
-  <br></br><br></br>
   
   
 
@@ -95,7 +89,7 @@
   
   * [買ってくださった方の感想例](https://twitter.com/MrGuardrailmgs/status/1160889525339430913?s=20)
   
-    <br></br><br></br><br></br>
+    <br></br>
 
 
 
@@ -126,7 +120,7 @@
 
   > Unity・C#
 
-  <br></br><br></br><br></br>
+  <br></br>
 
   
   
