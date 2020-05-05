@@ -84,8 +84,8 @@
     *  (参考）[AtCoderの色と実力に関する公式見解](http://chokudai.hatenablog.com/entry/2019/02/11/155904)
 * 機械学習：
   * 授業：
-  * Computational Creativity 概論
-    * ハンズオン形式で少し触れた程度
+    * Computational Creativity 概論
+      * ハンズオン形式で少し触れた程度
     * 統計的機械学習
   * 書籍
     * [機械学習のエッセンス](https://www.amazon.co.jp/dp/B07GYS3RG7/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)（ざっくり1周）
