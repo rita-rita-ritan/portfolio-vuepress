@@ -1,8 +1,14 @@
 # Study Record
 
+<br></br>
+
 今までに触れてきたことを言語ごとに書いていきます。ここではチュートリアルや入門書レベルのことであってもなるべく書くようにしようと思います。インターンや自主プロジェクトの経験などはここではなく次のページに書きます。
 
+<br></br>
+
 ここでやったことに対応するコードは、ローカルにしかなかったり既にローカルにもなかったりするのですが、可能な範囲で今後[GitHub](https://github.com/rita-rita-ritan)に整理していくつもりです。
+
+<br></br><br></br>
 
 
 
@@ -10,6 +16,8 @@
 
 * [Progate](https://prog-8.com/)（1周)
 
+  <br></br>
+  
   
 
 ## JavaScript / Ruby
@@ -28,6 +36,8 @@
   * 現在表示されているサイトのことです。
   * [主に参考にしたサイト](https://qiita.com/ozaki25/items/a1988b01f83f6616b7f9)
 
+<br></br>
+
 
 
 ## Google Apps Script
@@ -36,7 +46,7 @@
   * Twitterではアカウントを消しても一定期間内に再ログインすればアカウントが復活します。それを踏まえて少しの間だけアカウントを消す人がいるのですが、そのような人がTwitterに再ログインしたタイミングですぐスマホに通知してくれるアプリです。
 * SlackでLINEのようなスタンプを使えるSlackアプリ（プロト）
 
-
+<br></br>
 
 ## Swift
 
@@ -46,7 +56,7 @@
 
     * リンク先のツイートのリプライにデモをいくつか載せてあります。
 
-    
+    <br></br>
 
 ## Python
 
@@ -88,7 +98,7 @@
   * [TensorFlowのチュートリアル](https://www.tensorflow.org/tutorials/keras/classification?hl=ja)
 * Flask・Djangoのチュートリアル（最初の方だけ）
 
-
+<br></br>
 
 ## C
 
@@ -101,7 +111,7 @@
   * 電気電子情報実験・演習第一（現在受講中）
     * IP電話を作っています。
 
-
+<br></br>
 
 ## C#
 
@@ -112,7 +122,7 @@
   * [ハコスコ](https://hacosco.com/vr-goggle/)、[Oculus Go](https://www.oculus.com/go/?locale=ja_JP)、[PlayStation VR](https://www.playstation.com/ja-jp/explore/playstation-vr/)、[だんグラ](https://dangla.jp/)を所持しており、Oculus Goとだんグラについては簡単な開発をしたことがあります（cf. Project）
   * [バーチャル美少女受肉](https://twitter.com/rita_rita_ritan/status/1144632857580564481?s=20)
 
-
+<br></br>
 
 ## C++
 
@@ -124,7 +134,7 @@
 
   * データ処理・シミュレーション（天体の動き）
 
-    
+    <br></br>
 
 ## Arduino / Raspberry Pi
 
@@ -138,7 +148,7 @@
 
   > Raspberry Pi
 
-  
+  <br></br>
 
 ## Verilog HDL
 
@@ -148,7 +158,7 @@
 
 * 書籍：『[わかるVerilog HDL入門]([https://www.amazon.co.jp/%E3%82%8F%E3%81%8B%E3%82%8BVerilog-HDL%E5%85%A5%E9%96%80%E2%80%95%E6%96%87%E6%B3%95%E3%81%AE%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E8%AB%96%E7%90%86%E5%9B%9E%E8%B7%AF%E8%A8%AD%E8%A8%88%E3%80%81%E8%AB%96%E7%90%86%E5%90%88%E6%88%90%E3%80%81%E5%AE%9F%E8%A3%85%E3%81%BE%E3%81%A7-%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B9%E3%82%BF%E6%8A%80%E8%A1%93SPECIAL-%E6%9C%A8%E6%9D%91-%E7%9C%9F%E4%B9%9F/dp/4789837564](https://www.amazon.co.jp/わかるVerilog-HDL入門―文法の基礎から論理回路設計、論理合成、実装まで-トランジスタ技術SPECIAL-木村-真也/dp/4789837564))』（取り組み中）
 
-
+<br></br>
 
 ## アセンブリ（x86）
 
