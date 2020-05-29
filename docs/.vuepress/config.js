@@ -5,6 +5,7 @@ module.exports = {
             '/',
             '/overview',
             '/study_record',
+            '/sfp',
         ]
     }
 }

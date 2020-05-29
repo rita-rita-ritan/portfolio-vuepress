@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-sample",
+  "name": "portfolio",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "りたんの自己紹介用の[ウェブサイト](https://ritan.netlify.app/)です。",
   "dependencies": {
-    "vuepress": "^1.4.1"
-  }
+    "vue-tweet-embed": "^2.4.0",
+    "vuepress": "^1.5.0"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "repository": "git+https://github.com/rita-rita-ritan/portfolio-vuepress.git",
+  "bugs": {
+    "url": "https://github.com/rita-rita-ritan/portfolio-vuepress/issues"
+  },
+  "homepage": "https://github.com/rita-rita-ritan/portfolio-vuepress#readme"
 }
