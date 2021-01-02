@@ -2,11 +2,17 @@
 
 ## Internship / Part-time Job
 
-* ### クローラ作成＆教師データ集め（3ヶ月程度）
+* ### [RECRUIT Job for Student 2020](https://engineers.recruit-jinji.jp/event/job-for-student-2020s/)
+  * backend engineer
+  * 1 month
 
-  > Python
+* ### [いい生活 ＜2020年 サマーインターン＞エンジニアコース](https://e-seikatsu.snar.jp/jobboard/detail.aspx?id=nURMykS7fn9VQhdVYh9RHA)
+  * 1 week
+  
+* ### [Liaro](https://liaro.ai/)
 
-  * [インターン先企業サイト](https://liaro.ai/)
+  * about 3 months
+
 
   <br></br>
   
