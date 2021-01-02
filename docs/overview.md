@@ -4,14 +4,14 @@
 
 * ### [RECRUIT Job for Student 2020](https://engineers.recruit-jinji.jp/event/job-for-student-2020s/)
   * backend engineer
-  * 1 month
+  * 1 month: 2020/08
 
 * ### [いい生活 ＜2020年 サマーインターン＞エンジニアコース](https://e-seikatsu.snar.jp/jobboard/detail.aspx?id=nURMykS7fn9VQhdVYh9RHA)
-  * 1 week
+  * 1 week: 2020/07
   
 * ### [Liaro](https://liaro.ai/)
 
-  * about 3 months
+  * about 3 months: 2019/03 ~ 2019/05
 
 
   <br></br>
@@ -21,7 +21,7 @@
 ## Project
 
 
-* ### 藝大の課題　2019/5 一瞬を捉えよ
+* ### 藝大の課題 2019/05 一瞬を捉えよ
 
   > Arduino
 
@@ -35,7 +35,7 @@
     
     
 
-* ### Unity1週間ゲームジャム　スライムダイクストラ
+* ### Unity1週間ゲームジャム 2019/07 スライムダイヤモンド
 
   > Unity・C#
 
@@ -122,6 +122,8 @@
 ## Study Record
 
 [Study Record](/study_record.html)より一部抜粋
+
+* AIを用いたLINEのメッセージサジェスト
 
 * YouTubeの字幕をダウンロードするWebアプリ（プロト）
 
