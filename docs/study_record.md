@@ -1,8 +1,8 @@
 # Study Record
 
-今までに触れてきたことを言語ごとに書いていきます。ここではチュートリアルや入門書レベルのことであってもなるべく書くようにします。
+今までに触れてきたことを言語ごとに書いていきます。ここではチュートリアルや入門書レベルのことであってもなるべく書くようにします（すぐ新しいこと始めるせいで最新の情報を反映できていないことが多いです）。
 
-ここでやったことに対応するコードは、ローカルにしかなかったり既にローカルにもなかったりするのですが、可能な範囲で今後[GitHub](https://github.com/rita-rita-ritan)に整理していくつもりです。
+ここでやったことに対応するコードは、ローカルにしかなかったり既にローカルにもなかったりすることもあります。
 
 <br></br>
 
@@ -32,6 +32,9 @@
   * 現在表示されているサイトのことです。
   * [主に参考にしたサイト](https://qiita.com/ozaki25/items/a1988b01f83f6616b7f9)
 
+* React.js：チュートリアル
+* Vue.js：いい生活でのインターン
+
 <br></br>
 
 
@@ -51,6 +54,7 @@
   * [作成したアプリのデモ](https://twitter.com/rita_rita_ritan/status/1216726702564368384?s=20)
 
     * リンク先のツイートのリプライにデモをいくつか載せてあります。
+* SwiftUIのチュートリアル
 
     <br></br>
 
@@ -93,6 +97,7 @@
     * [ゼロから作るDeep Learning]([https://www.amazon.co.jp/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8BDeep-Learning-%E2%80%95Python%E3%81%A7%E5%AD%A6%E3%81%B6%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%A3%85-%E6%96%8E%E8%97%A4-%E5%BA%B7%E6%AF%85/dp/4873117585](https://www.amazon.co.jp/ゼロから作るDeep-Learning-―Pythonで学ぶディープラーニングの理論と実装-斎藤-康毅/dp/4873117585))（最初の方だけ）
   * [TensorFlowのチュートリアル](https://www.tensorflow.org/tutorials/keras/classification?hl=ja)
 * Flask・Djangoのチュートリアル（最初の方だけ）
+* AIを用いたLINEのメッセージサジェストプログラム
 
 <br></br>
 
@@ -104,8 +109,8 @@
     * 印象に残っている課題はお絵かきアプリの作成です。
     * ライフゲームも作った記憶があります。
     * 山登り法や線形回帰もやった気がします。
-  * 電気電子情報実験・演習第一（現在受講中）
-    * IP電話を作っています。
+  * 電気電子情報実験・演習第一
+    * IP電話を作りました。
 
 <br></br>
 
@@ -144,21 +149,35 @@
 
   > Raspberry Pi
 
+* IoT実験
+
+  > Arduino
+
   <br></br>
+
 
 ## Verilog HDL
 
 * 授業：
-  * ハードウェア設計論（受講中）
-  * コンピュータアーキテクチャ（受講中）
+  * ハードウェア設計論
+  * コンピュータアーキテクチャ
 
-* 書籍：『[わかるVerilog HDL入門]([https://www.amazon.co.jp/%E3%82%8F%E3%81%8B%E3%82%8BVerilog-HDL%E5%85%A5%E9%96%80%E2%80%95%E6%96%87%E6%B3%95%E3%81%AE%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E8%AB%96%E7%90%86%E5%9B%9E%E8%B7%AF%E8%A8%AD%E8%A8%88%E3%80%81%E8%AB%96%E7%90%86%E5%90%88%E6%88%90%E3%80%81%E5%AE%9F%E8%A3%85%E3%81%BE%E3%81%A7-%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B9%E3%82%BF%E6%8A%80%E8%A1%93SPECIAL-%E6%9C%A8%E6%9D%91-%E7%9C%9F%E4%B9%9F/dp/4789837564](https://www.amazon.co.jp/わかるVerilog-HDL入門―文法の基礎から論理回路設計、論理合成、実装まで-トランジスタ技術SPECIAL-木村-真也/dp/4789837564))』（取り組み中）
+* 書籍：『[わかるVerilog HDL入門]([https://www.amazon.co.jp/%E3%82%8F%E3%81%8B%E3%82%8BVerilog-HDL%E5%85%A5%E9%96%80%E2%80%95%E6%96%87%E6%B3%95%E3%81%AE%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E8%AB%96%E7%90%86%E5%9B%9E%E8%B7%AF%E8%A8%AD%E8%A8%88%E3%80%81%E8%AB%96%E7%90%86%E5%90%88%E6%88%90%E3%80%81%E5%AE%9F%E8%A3%85%E3%81%BE%E3%81%A7-%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B9%E3%82%BF%E6%8A%80%E8%A1%93SPECIAL-%E6%9C%A8%E6%9D%91-%E7%9C%9F%E4%B9%9F/dp/4789837564](https://www.amazon.co.jp/わかるVerilog-HDL入門―文法の基礎から論理回路設計、論理合成、実装まで-トランジスタ技術SPECIAL-木村-真也/dp/4789837564))』（途中まで）
+* 実験
 
 <br></br>
 
 ## アセンブリ（x86）
 
-* 授業：コンピュータアーキテクチャ（受講中）
+* 授業：コンピュータアーキテクチャ
 * 書籍：
-  * [動かしてわかる　CPUの作り方10講](https://www.amazon.co.jp/dp/B07WNLZJC4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)（取り組み中）
-  * [CPUの創り方]([https://www.amazon.co.jp/CPU%E3%81%AE%E5%89%B5%E3%82%8A%E3%81%8B%E3%81%9F-%E6%B8%A1%E6%B3%A2-%E9%83%81/dp/4839909865](https://www.amazon.co.jp/CPUの創りかた-渡波-郁/dp/4839909865))
+  * [動かしてわかる　CPUの作り方10講](https://www.amazon.co.jp/dp/B07WNLZJC4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)（途中まで）
+  * [CPUの創り方]([https://www.amazon.co.jp/CPU%E3%81%AE%E5%89%B5%E3%82%8A%E3%81%8B%E3%81%9F-%E6%B8%A1%E6%B3%A2-%E9%83%81/dp/4839909865](https://www.amazon.co.jp/CPUの創りかた-渡波-郁/dp/4839909865))（途中まで）
+
+<br></br>
+
+## その他触れたことのある技術
+* AWS
+* Docker
+* BigQuery
+* Elasticsearch
