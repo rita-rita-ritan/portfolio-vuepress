@@ -117,7 +117,9 @@
 
 ## C#
 
-* 書籍：『[Unityの教科書](https://www.amazon.co.jp/dp/B075SRPX3R/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)』（前半の方のみ）
+* 書籍
+  * 『[Unityの教科書](https://www.amazon.co.jp/dp/B075SRPX3R/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)』（前半の方のみ）
+  * 『[見てわかるUnity2019 C# スクリプト超入門](https://www.amazon.co.jp/dp/4798058882/ref=cm_sw_r_tw_api_i_SAKDBFSBMF5F8KNMF6CZ)』
 * ゲーム・プロダクト制作（cf. [Project](overview.html#project)）
 * VR:
   * 半年ほど[東大のVRサークル](http://utvirtual.tech/)に入っていました。
