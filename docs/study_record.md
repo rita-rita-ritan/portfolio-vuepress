@@ -79,8 +79,9 @@
   * システム論（言語指定なし。最終レポートにのみPythonを使用）
   * プログラミング基礎演習（前半がCで後半がPython）
   
-  * アルゴリズム（現在受講中。ただし履修はしていない）
-  * 統計的機械学習（現在受講中）
+  * アルゴリズム（聴講）
+  * 統計的機械学習
+  * プログラミング言語（受講中。前半はOCamlで後半がPython）
 * 長期インターンで使用（cf. [Internship / Part-time Job](overview.html#internship-part-time-job)）
 * 競技プログラミングで使用
 
@@ -140,6 +141,9 @@
 
     <br></br>
 
+## OCaml
+* 授業：プログラミング言語（受講中。前半がOCamlで後半はPython）
+<br></br>
 ## Arduino / Raspberry Pi
 
 * 東京藝術大学の学生に技術協力（cf. [Project](overview.html#project)）
