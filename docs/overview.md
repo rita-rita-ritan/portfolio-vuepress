@@ -6,7 +6,7 @@
   * backend engineer
   * 1 month: 2020/08
 
-* ### [いい生活 ＜2020年 サマーインターン＞エンジニアコース](https://e-seikatsu.snar.jp/jobboard/detail.aspx?id=nURMykS7fn9VQhdVYh9RHA)
+* ### [いい生活 ＜2020年 サマーインターン＞エンジニアコース](https://e-seikatsu.snar.jp/)
   * 1 week: 2020/07
   
 * ### [Liaro](https://liaro.ai/)
