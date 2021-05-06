@@ -1,5 +1,10 @@
 # Overview
 
+## Profile
+* Senior at The University of Tokyo (東京大学B4)
+* Electrical and Electronic Engineering (電気電子工学科)
+* Lab: [Hasegawa Lab](https://sites.google.com/view/hasegawalab)
+  * stochastic thermodynamics (確率熱力学)
 ## Internship / Part-time Job
 
 * ### [RECRUIT Job for Student 2020](https://engineers.recruit-jinji.jp/event/job-for-student-2020s/)
