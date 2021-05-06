@@ -5,11 +5,13 @@
 * Electrical and Electronic Engineering (電気電子工学科)
 * Lab: [Hasegawa Lab](https://sites.google.com/view/hasegawalab)
   * stochastic thermodynamics (確率熱力学)
+* twitter: [@rita_rita_ritan](https://twitter.com/rita_rita_ritan)
 ## Internship / Part-time Job
 
 * ### [RECRUIT Job for Student 2020](https://engineers.recruit-jinji.jp/event/job-for-student-2020s/)
   * backend engineer
   * 1 month: 2020/08
+  * [my experiece note (体験記)](https://note.com/rita_rita_ritan/n/n7e3955681bb2)
 
 * ### [いい生活 ＜2020年 サマーインターン＞エンジニアコース](https://e-seikatsu.snar.jp/)
   * 1 week: 2020/07
