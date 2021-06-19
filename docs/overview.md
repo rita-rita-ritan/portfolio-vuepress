@@ -1,27 +1,39 @@
 # Overview
+
 ## Profile
 * Senior at The University of Tokyo （東大B4）
 * Electrical and Electronic Engineering（電気電子工学科）
 * Hasegawa Lab
-  * Stochastic Thermodynamics（確率熱力学）
+  * Theoretical Physics（理論物理）
+    * Stochastic Thermodynamics（確率熱力学）
 
 ## Internship / Part-time Job
-### Recruit
+
+::: tip Recruit（リクルート）
+[Corporate Website](https://www.recruit.co.jp/)
 * 1 month: 2020/09
 * Backend Engineer @ Search Solution Group
-* Replaced architecture of API for HOT PEPPER Gourmet
-* Used AWS, BigQuery, Elasticsearch, etc...
-* [Blog: リクルート夏バイト体験記](https://note.com/rita_rita_ritan/n/n7e3955681bb2)
-### いい生活
+* Replaced architecture of Suggest-API for [HOT PEPPER Gourmet](https://www.hotpepper.jp/)
+  * AWS, BigQuery, Elasticsearch, etc...
+
+[Blog: リクルート夏バイト体験記](https://note.com/rita_rita_ritan/n/n7e3955681bb2)
+:::
+
+::: tip e-Seikatsu（いい生活）
+[Corporate Website](https://www.e-seikatsu.info/)
+* 1 week: 2020/08
+* Frontend Engineer
+* Created a prototype of a real estate web service with a team of 4 people.
+  * Vue.js
+:::
 
 
-### Liaro
-
-* ### クローラ作成＆教師データ集め（3ヶ月程度）
-
-  > Python
-
-  * [インターン先企業サイト](https://liaro.ai/)
+::: tip Liaro
+[Corporate Website](https://liaro.ai/)
+* about 3 months: 2019/03 - 2019/05
+* Created a crawler to scrape the data regularly to create teacher data for machine learning.
+  * Python, AWS, etc...
+:::
 
   <br></br>
   
