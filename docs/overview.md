@@ -24,7 +24,7 @@
 * 1 week: 2020/08
 * Frontend Engineer
 * Created a prototype of a real estate web service with a team of 4 people.
-  * Vue.js
+  * Vue.js, GitLab, etc...
 :::
 
 
@@ -32,7 +32,7 @@
 [Corporate Website](https://liaro.ai/)
 * about 3 months: 2019/03 - 2019/05
 * Created a crawler to scrape the data regularly to create teacher data for machine learning.
-  * Python, AWS, etc...
+  * Python, AWS, GitHub etc...
 :::
 
   <br></br>
