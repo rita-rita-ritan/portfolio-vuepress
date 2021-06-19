@@ -1,6 +1,21 @@
 # Overview
+## Profile
+* Senior at The University of Tokyo （東大B4）
+* Electrical and Electronic Engineering（電気電子工学科）
+* Hasegawa Lab
+  * Stochastic Thermodynamics（確率熱力学）
 
 ## Internship / Part-time Job
+### Recruit
+* 1 month: 2020/09
+* Backend Engineer @ Search Solution Group
+* Replaced architecture of API for HOT PEPPER Gourmet
+* Used AWS, BigQuery, Elasticsearch, etc...
+* [Blog: リクルート夏バイト体験記](https://note.com/rita_rita_ritan/n/n7e3955681bb2)
+### いい生活
+
+
+### Liaro
 
 * ### クローラ作成＆教師データ集め（3ヶ月程度）
 
