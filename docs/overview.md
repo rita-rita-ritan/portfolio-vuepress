@@ -250,3 +250,9 @@ I started playing Splatoon 2 around the beginning of 2021 and got to S+0 in less
 * 🎤 Leader for Project "MikuMikuWorld"
 * ☕️ Public Relations Manager and Design Director of Tea Club
 :::
+
+## Job Offer
+::: warning Do you want to work with me?
+* Yes → [<u>Contact me!</u>](https://twitter.com/rita_rita_ritan)
+* No → [<u>Read again!</u>](#overview)
+:::
