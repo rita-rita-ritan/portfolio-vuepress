@@ -7,10 +7,5 @@ module.exports = {
             '/study_record',
             '/sfp',
         ]
-    },
-    markdown: {
-        config: md => {
-            md.use(require('markdown-it-video'))
-        }
     }
 }
