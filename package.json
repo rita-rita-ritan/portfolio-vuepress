@@ -18,9 +18,7 @@
   "directories": {
     "doc": "docs"
   },
-  "devDependencies": {
-    "markdown-it-video": "^0.6.3"
-  },
+  "devDependencies": {},
   "repository": "git+https://github.com/rita-rita-ritan/portfolio-vuepress.git",
   "bugs": {
     "url": "https://github.com/rita-rita-ritan/portfolio-vuepress/issues"
