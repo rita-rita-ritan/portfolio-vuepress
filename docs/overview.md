@@ -8,19 +8,38 @@ export default {
 }
 </script>
 
-::: warning My Field
+::: warning I'm skilled at
 💪Physics & 🖥Programming & 🎨Design
 :::
 
-## Table of Contents
+<!-- ::: details <b>Table of Contents</b>
 [[toc]]
+::: -->
 
-## Profile
+::: details <b>Profile</b>
 * Senior @ Department of Electrical and Electronic Engineering, The University of Tokyo
 * [Hasegawa Lab](https://sites.google.com/view/hasegawalab)
     * 💪 Stochastic Thermodynamics
 
 [Twitter](https://twitter.com/rita_rita_ritan) [GitHub](https://github.com/rita-rita-ritan)
+:::
+
+::: details <b>Previous Positions</b> in Clubs, Projects, etc...
+<b>in Junior High School</b>
+* ⚽️ Vice Captain of Soccer Club
+* 🖋 Secretary of Student Council
+  * 🎤 Leader of Executive Committee for Junior High School Division of Singing Contest
+
+<b>in High School</b>
+* 🎨 President of Art Club
+* 💺 Chairperson of Student Council
+  * 🏃‍♂️ Leader of Executive Committee for Sports Festival
+
+<b>in University</b>
+* 🎤 Leader for Project "MikuMikuWorld"
+* ☕️ Public Relations Manager and Design Director of Tea Club
+:::
+
 
 ## Internship & Part-time Job
 
@@ -233,25 +252,7 @@ I started playing Splatoon 2 around the beginning of 2021 and got to S+0 in less
 <Tweet id="1398260219973566466"></Tweet>
 :::
 
-## Previous Positions
-::: tip <b>Junior High School</b>
-* ⚽️ Vice Captain of Soccer Club
-* 🖋 Secretary of Student Council
-  * 🎤 Leader of Executive Committee for Singing Contest Junior High School Division
-:::
-
-::: tip <b>High School</b>
-* 🎨 President of Art Club
-* 💺 Chairperson of Student Council
-  * 🏃‍♂️ Leader of Executive Committee for Sports Festival 
-:::
-
-::: tip <b>University</b>
-* 🎤 Leader for Project "MikuMikuWorld"
-* ☕️ Public Relations Manager and Design Director of Tea Club
-:::
-
-## Job Offer
+<br></br>
 ::: warning Do you want to work with me?
 * Yes → [<u>Contact me!</u>](https://twitter.com/rita_rita_ritan)
 * No → [<u>Read again!</u>](#overview)
